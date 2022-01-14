@@ -1,4 +1,5 @@
 use en::{num_traits::Zero, Max as _, Min as _};
+pub use rand;
 use rand::{
     distributions::uniform::{SampleRange, SampleUniform},
     prelude::*,
