@@ -1,0 +1,13 @@
+[package]
+name = "d6"
+version = "0.1.0"
+edition = "2021"
+authors = ["Brainium Studios LLC", "Francesca Lovebloom <francesca@brainiumstudios.com>"]
+description = "A convenience-first RNG library! 🎲"
+documentation = "https://docs.rs/d6"
+repository = "https://github.com/BrainiumLLC/d6"
+license = "Apache-2.0/MIT"
+
+[dependencies]
+en = "0.1.5"
+rand = "0.8.4"
